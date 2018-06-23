@@ -2,7 +2,7 @@
 
 ![alt text][id]
 
-[id]: /url/to/img.jpg "Title"
+[id]: https://github.com/ericboszin/CanSat_2018/blob/master/CanSat.jpg "UofT CanSat"
 
 Code used in the 2018 CanSat mission.
 
